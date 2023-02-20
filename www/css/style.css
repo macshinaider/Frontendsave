@@ -1,0 +1,18 @@
+.h1{
+    text-align: center;
+    color: white;
+    padding: auto;
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+}
+
+.body{
+    background-color: blueviolet;
+    padding: auto;
+}
+
+.par{
+    text-align: center;
+    background: local;
+    padding: auto;
+}
