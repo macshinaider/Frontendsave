@@ -18,4 +18,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: 33
-        server-dir: Frontendsave/www/
+        server-dir: Frontendsave/
