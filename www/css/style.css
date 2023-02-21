@@ -8,6 +8,8 @@ body{
 
 body *{
     box-sizing: border-box;
+    
+    
 }
 
 .main-login{
@@ -142,4 +144,17 @@ body *{
     .card-login{
         width: 90%;
     }
+}
+
+.rodape{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    background: rgb(218, 81, 81);
+    color: aliceblue;
+    box-shadow: 0px 10px 30px black;
+    outline: none;
+    box-sizing: border-box;
+
 }
