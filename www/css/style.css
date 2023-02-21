@@ -13,12 +13,13 @@ body *{
 }
 
 .main-login{
-    width:100vw;
-    height: 100vh;
+    width: 100vw; /*100vw*/
+    height: 100vh; /*#100vh*/
     background: rgb(3, 10, 77);
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: auto auto auto auto;
 }
 
 .left-login{
@@ -146,14 +147,3 @@ body *{
     }
 }
 
-.rodape{
-    width: 100%;
-    border: none;
-    border-radius: 10px;
-    padding: 10px;
-    background: rgb(218, 81, 81);
-    color: aliceblue;
-    box-shadow: 0px 10px 30px black;
-    outline: none;
-    box-sizing: border-box;
-}
